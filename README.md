@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 # Education
-- New York University (2012 - 2018)
+- New York University (2012 ~ 2018)
     - B.A. in Economics  
-    - 
+- Yonsei University (2021 ~)
+    - M.S. in Digital Analytics
 
 # Project
 - HSAd 산학협력 프로그램 우수상
