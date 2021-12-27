@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# Education
+- New York University (2012 - 2018)
+    - B.A. in Economics  
+    - 
+
+# Project
+- HSAd 산학협력 프로그램 우수상
+
 <!--
 **myk9316/myk9316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
