@@ -9,7 +9,7 @@
 ## Project
 - HSAd
     - 산학협력 프로그램 우수상
-- TextMining
+- Text Mining
     - Trend Research based on Yes24 bookstore bestseller reviews/abstract/title/table of contents
 <!--
 **myk9316/myk9316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
