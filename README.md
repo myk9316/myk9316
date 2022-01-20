@@ -7,11 +7,12 @@
     - M.S. in Digital Analytics
 
 ## Project
-- HSAd
-    - 산학협력 프로그램 우수상
 - Text Mining
     - Trend Research based on Yes24 bookstore bestseller reviews/abstract/title/table of contents
 - 딥러닝 기반 웹툰 폭력성 측정
+
+## Awards
+- LG전자 (독일) 데이터분석 산학협력 (우수상) 
 <!--
 **myk9316/myk9316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
