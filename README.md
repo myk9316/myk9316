@@ -3,7 +3,7 @@
 ## Education
 - New York University (2012 ~ 2018)
     - B.A. in Economics (minor in mathematics)
-- Yonsei University (2021 ~)
+- Yonsei University 인공지능융합 대학원 (2021 ~)
     - M.S. in Digital Analytics
 
 ## Project
