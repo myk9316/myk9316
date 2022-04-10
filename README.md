@@ -13,6 +13,13 @@
 
 ## Awards
 - LG전자 (독일) 데이터분석 산학협력 (우수상) 
+
+
+
+## 블로그로 이전중
+https://myk9316.tistory.com/
+
+
 <!--
 **myk9316/myk9316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
